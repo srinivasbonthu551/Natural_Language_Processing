@@ -1,0 +1,1 @@
+**Natural language processing (NLP)** is a field that focuses on making natural human language usable by computer programs. NLTK, or Natural Language Toolkit, is a Python package that you can use for NLP.
